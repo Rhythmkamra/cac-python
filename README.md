@@ -1,0 +1,1 @@
+<strong>GIT TIP<strong><h1>whenever create a new a repo while adding a new remote repo always do one commit and then branch and push the content<h1>
